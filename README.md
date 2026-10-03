@@ -1,6 +1,6 @@
 # Manish Kumar Mishra — Premium Portfolio
 
-Next.js portfolio with GSAP ScrollTrigger, Lenis smooth scrolling, responsive layouts and resume/contact interactions.
+Next.js portfolio with GSAP ScrollTrigger, Lenis smooth scrolling, responsive mobile/desktop layouts, 3D-inspired icon surfaces, cinematic portrait treatment, animated skill/tool cards, timeline motion and resume/contact interactions.
 
 ## Required assets
 
@@ -57,3 +57,16 @@ Once Git integration is enabled, pushes to main can trigger new deployments auto
 ## Important
 
 The source code is ready, but the binary portrait/resume should be uploaded to public/assets before the first production deployment.
+
+## Visual / motion features
+
+- Mobile-first responsive navigation and layouts
+- GSAP ScrollTrigger section reveals and timeline progress
+- Lenis smooth scrolling
+- 3D-inspired floating hero icons and depth card
+- Perspective/tilt skill icons
+- Animated tool icons
+- Scroll-driven skill/tool/education/certification/contact reveals
+- Reduced-motion fallback
+- Optimized local portrait path: /assets/manish.jpg
+
